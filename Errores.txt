@@ -1,0 +1,8 @@
+Archive for required library: '/home/pacific/.m2/repository/org/postgresql/postgresql/42.2.4/postgresql-42.2.4.jar' in project 'Neobanks' cannot be read or is not a valid ZIP file
+
+
+Archive for required library: '/home/pacific/.m2/repository/org/postgresql/postgresql/42.2.4/postgresql-42.2.4.jar' in project 'NeobankS' cannot be read or is not a valid ZIP file
+
+Archive for required library: '/home/pacific/.m2/repository/org/postgresql/postgresql/42.2.4/postgresql-42.2.4.jar' in project 'NeobancoSpring' cannot be read or is not a valid ZIP file
+
+Archive for required library: '/home/pacific/.m2/repository/org/postgresql/postgresql/42.2.4/postgresql-42.2.4.jar' in project 'NeobankS' cannot be read or is not a valid ZIP file
